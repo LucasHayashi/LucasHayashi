@@ -3,10 +3,8 @@
 
 - ⚡ Meu nome é Lucas Hayashi, moro no interior de São Paulo, e sou Dev Full Stack
 - 👨‍💻 Atualmente trabalho como desenvolvedor Web na Unimed Bauru
-- 📚 Estou aprendendo TDD, Solid e Design Patterns
-- 👯 Atualmente estou colaborando no projeto privado do meu TCC
+- 📚 Atualmente estou focado no aprendizado de Angular
 - 📫 Entre em contato via e-mail: lucashayashi5@gmail.com
-- 😄 Ele / dele
 
 <div id="minhas-stacks">
   <h2>Minhas stacks</h2>
